@@ -1,0 +1,18 @@
+First 
+git init
+git add .
+git commit -m "initial commit"
+
+
+Then
+git remote add origin [copied web address]
+# git remote add origin https://github.com/alfonso-fm/my-resume.git
+
+Then
+git init                                     
+git status
+git add .
+git commit -m "First Upload"
+git push origin Main
+
+git push origin FixForBug
