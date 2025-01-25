@@ -2,7 +2,7 @@
 layout: layout_default
 #layout: page
 title: About this site
-permalink: /about/
+permalink: about/
 ref: ../
 ---
 
